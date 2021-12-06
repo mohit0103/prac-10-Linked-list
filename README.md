@@ -1,1 +1,0 @@
-# prac-10-Linked-list
